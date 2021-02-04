@@ -1,0 +1,15 @@
+ipconfig
+ipconfig /flushdns
+ipconfig /all
+ipconfig /release
+ipconfig /renew
+ipconfig /?
+ping 
+tracert
+hostname
+getmac
+arp
+nslookup
+netstat -o
+nbstart
+taskill
